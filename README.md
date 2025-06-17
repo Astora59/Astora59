@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Astora59/Astora59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +19,7 @@ Here are some ideas to get you started:
         <img width="100%" src="/banner.png" alt="yamin moulay card" />
     </a>
 </div>
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , je suis Yamin Moulay !</h1>
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Yamin Moulay !</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=développeur+web;Front-end;Backend;AI;Godot" alt="Typing SVG" />
@@ -28,16 +27,16 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  Metalhead | Gamer | fan de tech
+  Metalhead | Gamer | programming enthusiast
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Astora59&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 
-<h2 align="center">🚀 A propos</h2>
+<h2 align="center">🚀 About me</h2>
 
-Je suis passionné par la façon dont le monde fonctionne. Enfant, je voulais comprendre comment fonctionner chaque jeu et interface que je pouvais utiliser. Grandir m'a fait comprendre que ma voie était dans le monde de l'informatique et particulièrement de la programmation, où je pourrais décortiquer ce monde numérique et je l'espère, créer ce même sens de fascination que j'ai pu connaître en étant plus jeune. Je suis passionné de technologie, d'art en tout genre et de sport !
+I’m passionate about how the world works. As a child, I was always curious to understand how every game and interface I used functioned. Growing up made me realize that my path was in the world of computer science — especially programming — where I could dissect the digital world and, hopefully, create that same sense of fascination I felt when I was younger. I'm passionate about technology, all forms of art, and sports!
 
 
 <h3 align="center">Git Stats</h3>
@@ -233,3 +232,13 @@ Je suis passionné par la façon dont le monde fonctionne. Enfant, je voulais co
   </tbody>
 </table>
 </div>
+
+
+## 📚 What I'm Learning Now
+
+> Currently diving into the world of Java and containerization with Docker, Docker swarm and Kubernetes ! Also learning GDscript as a hobby !
+
+## 📬 Get in Touch
+
+-  [LinkedIn](https://www.linkedin.com/in/yamin-moulay-0269051bb/)
+-  E-mail: yaminmoulay12@gmail.com
