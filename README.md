@@ -20,6 +20,7 @@ Here are some ideas to get you started:
         <img width="100%" src="/banner.png" alt="yamin moulay card" />
     </a>
 </div>
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , je suis Yamin Moulay !</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=développeur+web;Front-end;Backend;AI;Godot" alt="Typing SVG" />
