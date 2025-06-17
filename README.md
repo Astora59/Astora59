@@ -26,3 +26,41 @@ Here are some ideas to get you started:
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=développeur+web;Front-end;Backend;AI;Godot" alt="Typing SVG" />
 
 </p>
+
+<p align="center">
+  Metalhead | Gamer | fan de tech
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Astora59&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+</p>
+
+<h2 align="center">🚀 A propos</h2>
+
+Je suis passionné par la façon dont le monde fonctionne. Enfant, je voulais comprendre comment fonctionner chaque jeu et interface que je pouvais utiliser. Grandir m'a fait comprendre que ma voie était dans le monde de l'informatique et particulièrement de la programmation, où je pourrais décortiquer ce monde numérique et je l'espère, créer ce même sens de fascination que j'ai pu connaître en étant plus jeune. Je suis passionné de technologie, d'art en tout genre et de sport !
+
+
+<h3 align="center">Git Stats</h3>
+
+<div align="center">
+ 
+  <img src="https://streak-stats.demolab.com/?user=Astora59&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Astora59&custom_title=Astora's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<br>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astora59&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Astora59&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Astora59&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
+
+</div>
