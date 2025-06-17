@@ -21,3 +21,7 @@ Here are some ideas to get you started:
     </a>
 </div>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=développeur+web;Front-end;Backend;AI;Godot" alt="Typing SVG" />
+
+</p>
